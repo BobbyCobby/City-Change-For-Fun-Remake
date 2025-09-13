@@ -1,0 +1,12 @@
+[
+  {
+    "constants": {
+      "cityWorkRange": 5,
+      "cityStrengthPerPop": 1,
+      "baseCityBombardRange": 3,
+      "cityAirUnitCapacity": 3,
+      "minimalCityDistance": 4,
+      "minimalCityDistanceOnDifferentContinents": 4}
+  }
+]
+      
