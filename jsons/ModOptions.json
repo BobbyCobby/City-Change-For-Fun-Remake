@@ -1,5 +1,6 @@
 [
   {
+    "isBaseRuleset": false,
     "constants": {
       "cityWorkRange": 5,
       "cityStrengthPerPop": 1,
