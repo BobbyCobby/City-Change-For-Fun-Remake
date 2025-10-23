@@ -5,9 +5,9 @@
       "cityWorkRange": 5,
       "cityStrengthPerPop": 1,
       "baseCityBombardRange": 3,
-      "cityAirUnitCapacity": 3,
-      "minimalCityDistance": 5,
-      "minimalCityDistanceOnDifferentContinents": 4
+      "cityAirUnitCapacity": 10,
+      "minimalCityDistance": 1,
+      "minimalCityDistanceOnDifferentContinents": 1
     }
   }
 
